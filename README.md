@@ -1,6 +1,6 @@
 # ShoppingMall
 
-[ShoppingMall_Table](https://www.erdcloud.com/d/j3DrSBuPo78dpPmXC, "google link")
+[ShoppingMall_Table](https://www.erdcloud.com/d/j3DrSBuPo78dpPmXC)
 <br>
 <img src = "ShoppingMall_Table.png">
 
