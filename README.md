@@ -1,3 +1,7 @@
-# ShoppoingMall
+# ShoppingMall
 
-[ShoppoingMall_Table](https://docs.google.com/spreadsheets/d/1s4zW19yGkcHEdGkpny6tYkH-6j0QAhWaIhEhCGrcHPQ/edit#gid=0, "google link")
+[ShoppingMall_Table](https://www.erdcloud.com/d/j3DrSBuPo78dpPmXC, "google link")
+<br>
+<img src = "ShoppingMall_Table.png">
+
+가구를 파는 매장의 쇼핑몰 웹페이지를 가정하여 표를 작성함. 
